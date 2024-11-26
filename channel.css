@@ -1,0 +1,18 @@
+body{
+    background-image: url("file:///C:/Users/sinha/Downloads/Subscribe%20Now!.png");
+    text-align: center;
+    background-size: cover;
+}
+div{
+    background-color: rgba(255, 255, 255, 0.853);
+    width: 500px;
+    margin-left: 37%;
+    color: red;
+}
+p{
+    font-size: 45px;
+}
+
+h1{
+    font-size: 50px;
+}
